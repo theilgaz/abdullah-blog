@@ -1,0 +1,15 @@
+11.12.2017
+#5 - Object Pascal'a Giriş
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h70YlcK-frc?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Embarcadero Delphi geliştirme çevresinde (Delphi IDE) Object Pascal programlama dili ile uygulama geliştirme eğitim serisi Delphi ile Programlama Öğren'in beşinci videosu olan "Object Pascal'a Giriş" ile karşınızdayım.
+
+Merhaba Dünya uygulamasının perde arkasını araladık ve veri tiplerine hızlı bir giriş yaptık. String veri tipini kullanarak Merhaba Dünya'yı genişlettik. Integer, Double, Extended, Boolean veri tiplerine değindik ve nasıl kullanıldıklarından bahsettik.
+
+Tekrarlama için kullanılan For döngüsünün nasıl tanımlandığını, nasıl kullanıldığını ve ne işe yaradığını güzel bir örnek üzerinden açıkladık. 
+
+Kontrol yapılarının en yaygını olan If koşul-kontrol yapısı inceledik. If ve If-Else kontrollerinin nasıl yazılacağını öğrendik. Boolean olarak neticelendirilen koşullar sayesinde çalıştırılacak kodları tespit etmeyi öğrendik.
+
+Bir sonraki videomuzda gelişmiş yapılar, değişken ve tanımlar üzerinde gelişmiş kullanımlar ve daha fazla Object Pascal göreceğiz, sakın kaçırmayın!
