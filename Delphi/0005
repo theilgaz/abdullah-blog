@@ -1,0 +1,13 @@
+05.12.2017
+#4 - Basit Bir Uygulama Yapalım
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bydv0FqdZAI?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Embarcadero Delphi geliştirme çevresinde (Delphi IDE) Object Pascal programlama dili ile uygulama geliştirme eğitim serisi Delphi ile Programlama Öğren'in dördüncü videosu olan "Basit Bir Uygulama Yapalım" ile karşınızdayım.
+
+Geliştirme Ortamı üzerinde bazı özelleştirmeler yaparak uygulama geliştirme süreçlerine giriş yaptık. Ardından teknik konuları biraz daha irdeledik. Object Inspector üzerinde çeşitli özellikleri kullanarak Delphi IDE ile iyice kaynaştık. 
+
+Ardından TMemo, TEdit ve TButton kullanarak basit bir mesaj aktarım uygulaması yaptık. Kullanıcı tarafından Edit1 nesnesine girilen text (string) verilerin Memo1 nesnesine aktarımını sağladık.
+
+Bir sonraki videomuzda görüşmek üzere, hoşçakalın!
