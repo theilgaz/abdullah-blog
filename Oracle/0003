@@ -1,0 +1,16 @@
+10.10.2018
+[Çözüm] ORA-28000 the account is locked
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<p>Bu hata, veritabanı kullanıcısı ile yapılan birden fazla ihlal sebebi ile oluşur. <strong>Kullanıcı kilitlendi. Ne yapmalıyım?</strong></p>
+
+<p><strong>Çözüm</strong></p>
+
+<p><strong>Kullanıcı kilidini kaldırma</strong></p>
+<p>
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ alter user KULLANICINIZ account unlock;   &nbsp;</span>
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ grant connect, resource to KULLANICINIZ;  &nbsp;</span>
+</p>
+
+
+<p>İyi çalışmalar!</p>
