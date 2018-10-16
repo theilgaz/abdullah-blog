@@ -1,0 +1,31 @@
+25.11.2017
+Delphi ile Programlamayı Öğren
+<p class="border-bottom border-gray">&nbsp;</p>
+
+Bugün 21 videodan oluşan Delphi temel eğitim serisine başladım. Eğitimin durumu geri dönüşler, bildirimler ve talepler doğrultusunda yatay/dikey olarak genişleyecek. İlk aşamada oluşturduğum eğitim planında temel Object Pascal eğitimi yer alıyor.
+
+Eğitimlere <a href="http://youtube.com/c/abdullahilgaz" target="_blank">buradan</a> linkinden ulaşabilirsiniz.
+
+<ul>
+<li>Programlamaya Giriş</li>		
+<li>Rad Studio ile Tanışın</li>		
+<li>Merhaba Dünya </li>		
+<li>Basit Bir Uygulama Yapalım</li>			
+<li>Object Pascal'a Giriş</li>			
+<li>Object Pascal'a Daha Yakından Bakalım</li>					
+<li>Basit String Kullanımları</li>		
+<li>Veri Tipleri</li>
+<li>Setler ve Türler (Sets & Types)</li>					
+<li>Diziler (Arrays)</li>		
+<li>Kayıtlar (Records)</li>		
+<li>Basit Veri Gösterimi (Basic Data)</li>				
+<li>Sınıf Yapısı (Basic Class)</li>
+<li>Fonksiyonlar & Prosedürler (Functions & Procedures)</li>			
+<li>Birimler (Unit)</li>				
+<li>Kalıtım (Inheritance)</li>
+<li>Çok Biçimlilik (Polymorphism)</li>			
+<li>Neden OOP?</li>		
+<li>Özellikler (Properties)</li>			
+<li>Erişim Belirleyiciler (Access Modifiers)</li>
+<li>Yapıcı & Yıkıcı (Constructors & Destructors) </li>	
+<ul>
