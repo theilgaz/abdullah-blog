@@ -1,0 +1,20 @@
+14.10.2018
+Kanarya Sürüm Hakkında
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<p><strong>Takdim</strong></p>
+Bugün itibariyle yeniden oluşturduğum web sayfamı canlıya aldım. Geliştirme aşamasında birçok fikir ve düşünce üzerine yoğunlaşmış olsam da, günümüz web sayfalarının acınası <em>(içeriğe erişememe)</em> durumu yüzünden; <strong>içeriğe en çabuk nasıl ulaşılır?</strong> sorusuna cevap bulmaya çalıştım.
+
+Sayfanın genel hatlarıyla ve teknik anlamda incelenmesini yaparsak;
+
+<ul>
+<li>Backend kodlamasını C# ile Asp.Net Mvc projesi olarak tamamladım.</li>
+<li>Bootstrap'in nimetlerinden çokca faydalandım.</li>
+<li>Gücümü jQuery'den aldım.</li>
+<li>Web sayfalarındaki veritabanı yönetiminden kurtuldum ve içeriklerimi ham veri olarak tutuyorum.</li>
+</ul>
+
+<p><strong>Kanarya Sürüm</strong></p>
+<p>Hikayesi meşhur <em>madenci kanaryası</em>ndan gelir. Kanaryalar eskiden bir nevi <strong>erken uyarı sistemi</strong> olarak kömür madenlerinde kullanılırdı. Metan, karbonmonoksit gibi madende bulunan zehirli gazların madencileri etkilememesi için kanaryalar gönderilirdi. Kuşların vaziyeti, madencilere bir tehlike olup olmadığını söylüyordu.</p>
+<p>Benzer bir yaklaşım ile Kanarya Sürümü <em>(özgün adı ile Canary Release)</em>, hedef kitleye, müşterilere veya kullanıcılara, mevcut partiküler segment üzerine eklenen yeni özellik veya özelliklerin henüz test edilmediğini, olası hataları ve tespitleri ilk kullanacakların bulabileceğinin habercisidir. Böylelikle kanarya sürümünü kullananlar, o özelliğin/özelliklerin bütünleşik testlerini yerine getirmiş olurlar.</p>
+<p>Böylece birden fazla ölçeklendirme, kıstas ve değerlendirme ile özelliklerin beklendiği gibi çalışıp çalışmadığı test edilmiş olur. Kanarya sürümünde versiyonlar hızlı bir şekilde gönderilir ve sadece beta kullanıcılarına, doğrudan prodüksiyon iletilir. Geridönüşlere göre iyileştirmeler ve geliştirmeler yapılır ve tüm kitleye kararlı sürüm çıkartılmadan önce eksikler tamamlanmış olur.</p>
