@@ -1,0 +1,19 @@
+05.10.2018
+Windows 10 Sql Developer Ekran Problemi
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<p>Windows 10 kullanan geliştiricilerin karşılaştığı yaygın bir hata var: <strong>Ekrandaki nesnelerin gözükmüyor. Ne yapmalıyım?</strong></p>
+
+<p><strong>Çözüm</strong></p>
+<p>
+<ol>
+<li>Oracle Sql Developer programını açın.</li>
+<li>Ekranda aktif pikselleri gizlemek için form border kısmından fare ile tutarak sağa-sola gezdirin. Şimdi üst menüdeki elemanlar gözükecektir. </li>
+<li><strong>Tools</strong> menüsünde fare ile gezinin. Daha sonra <strong>Properties > Environment</strong> ekranına ulaşın.</li>
+<li>Açılan pencereye 2. maddeyi uygulayın.</li>
+<li>Look and Feel özelliğini açılır listeden Windows'a çevirin ve açılan popuptaki Kaydet butonuna basın.</li>
+<li>Sql Developer yeniden başladığında tüm probleminiz giderilmiş olacaktır.</li>
+</ol>
+</p>
+
+<p>İyi çalışmalar!</p>
