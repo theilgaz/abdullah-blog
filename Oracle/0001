@@ -1,0 +1,31 @@
+01.10.2018
+Pratik Oracle Başlangıç Rehberi
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<p><strong>Komut arayüzünü açma</strong></p>
+Oracle'ı kurduğunuz diskinizin ana dizininde oluşan SqlPlus'a erişin.
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ C:/sqlplus  &nbsp;</span>
+
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<p><strong>Bağlantı sağlama</strong></p>
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ username: SYSTEM   &nbsp;</span>
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ pwd: (kurulumdaki sa şifreniz)  &nbsp;</span>
+
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<p><strong>Veritabanı oluşturma</strong></p>
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ CREATE USER veritabani_adi (enter)   &nbsp;</span>
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ IDENTIFIED BY sifre;  &nbsp;</span>
+
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<p><strong>Oluşan veritabanına yetki verme</strong></p>
+
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ GRANT CREATE SESSION TO veritabani_adi;  &nbsp;</span>
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ GRANT CREATE TABLE TO veritabani_adi;  &nbsp;</span>
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ GRANT CREATE VIEW TO veritabani_adi;  &nbsp;</span>
+<span style="background-color:#272727;color:#fff;">&nbsp; >_ GRANT CREATE SYNONYM TO veritabani_adi;  &nbsp;</span>
+
+<p class="border-bottom border-gray">&nbsp;</p>
+<em>Not: Oracle veritabanında tüm tablolar kullanıcıya ait bir <strong>SCHEMA</strong>'ya bağlı oluşturuluyor.</em>
