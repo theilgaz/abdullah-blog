@@ -1,0 +1,14 @@
+27.11.2017
+#2 - Rad Studio ile Tanışın
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NXBmYin_XE?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Embarcadero Delphi geliştirme çevresinde (Delphi IDE) Object Pascal programlama dili ile uygulama geliştirme eğitim serisi Delphi ile Programlama Öğren'in ikinci videosu olan "Rad Studio ile Tanışın" ile karşınızdayım.
+
+Bu videoda Rad Studio'nun ne olduğunu, hoşgeldin sayfasında neler yapabileceğimizi, yeni bir projenin nasıl oluşturulacağını veya mevcut projelerin nasıl yönetilebileceğini konuştuk. Eğitim videoları ve dokümantasyon sayfasına değindik. GetIt uygulama yöneticisi ile mevcut Rad Studio üzerinde olmayan paket ve eklentilerin nasıl kurulabileceğinden bahsettik. Rad Studio'yu biraz daha yakından inceleme fırsatı bulduk ve Tool Palette, Object Inspector, Structure, Project Manager, Code Editor, Design Form hakkında bilgi sahibi olduk.
+
+Ve son olarak ilk görsel programlamamızı gerçekleştirerek başarılı bir şekilde projemizi derledik. Daha sonra proje çıktısını inceledik.
+
+Bir sonraki videoda Merhaba Dünya! diyeceğiz. Artık Object Pascal kodlamanın zamanı geldi.
+Sakın kaçırmayın!
