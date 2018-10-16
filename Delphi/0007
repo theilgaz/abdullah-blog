@@ -1,0 +1,12 @@
+26.12.2017
+#6 - Object Pascal'a Daha Yakından Bakalım
+<p class="border-bottom border-gray">&nbsp;</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/teI-JcsaHsk?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p>Embarcadero Delphi geliştirme çevresinde (Delphi IDE) Object Pascal programlama dili ile uygulama geliştirme eğitim serisi Delphi ile Programlama Öğren'in altıncı videosu olan "Object Pascal'a Daha Yakından Bakalım" ile karşınızdayım.</p>
+<p>Bu videomuzda tekrarlama (döngü) yapıları ve kontrol - koşul yapıları üzerinde konuştuk.</p>
+<p>İlk önce if if-else yapısını hatırladık. Daha sonra if kontrol-koşul yapısına çok benzeyen case of yapısını ele aldık. Detay ve kapsam farklılıklarını gözlemledik. Birer örnek ile kullanımını sağladık.</p>
+<p>Daha sonrasında for, repeat until, while do tekrarlama yapılarının nasıl olduklarına biraz daha yakından baktık. Birbirleri arasındaki küçük farklılıklardan bahsettik.</p>
+<p>Artık Object Pascal üzerinde birçok işlemi yerine getirebilen uygulamalar geliştirmeye hazırız. </p>
+<p>Bir sonraki videomuzda String veri tipinin derinlerine doğru bir yolculuk yapacağız, sakın kaçırmayın!</p>
